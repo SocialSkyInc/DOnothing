@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Images 24x24 </title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Images-24x24-" stroke="#16254F">
+            <rect id="Rectangle-2-Copy-3" x="0.5" y="0.5" width="23" height="23" rx="2"></rect>
+            <path d="M11,13.8697556 C13.3344842,10.532677 15.5186363,8.91068863 17.5524562,9.00379045 C19.586276,9.09689227 21.5485416,10.9520703 23.439253,14.5693246" id="Path-10" stroke-linecap="round"></path>
+            <path d="M0.526922415,17.9514884 C3.36854775,14.3749804 5.70442239,12.5737985 7.53454633,12.5479425 C9.36467027,12.5220866 10.8531548,13.427422 12,15.2639487" id="Path-10-Copy" stroke-linecap="round"></path>
+            <circle id="Oval-3" cx="6.5" cy="6.5" r="2.5"></circle>
+        </g>
+    </g>
+</svg>

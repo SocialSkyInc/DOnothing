@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>8939F3E7-A0A7-4F57-9803-09FB0CCE4F3E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Documents" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Documents_preview-lines_options" transform="translate(-1407.000000, -148.000000)">
+            <g id="Group" transform="translate(32.000000, 136.000000)">
+                <g id="icon/24/folder/Create-new-folder" transform="translate(1375.000000, 12.000000)">
+                    <g id="Folder" stroke="#16254F">
+                        <path d="M2,0.5 C1.17157288,0.5 0.5,1.17157288 0.5,2 L0.5,22 C0.5,22.8284271 1.17157288,23.5 2,23.5 L22,23.5 C22.8284271,23.5 23.5,22.8284271 23.5,22 L23.5,4.88 C23.5,4.05157288 22.8284271,3.38 22,3.38 L13.42,3.38 L13.42,2 C13.42,1.17157288 12.7484271,0.5 11.92,0.5 L2,0.5 Z" id="Rectangle-2-Copy-3"></path>
+                        <path d="M15.5,2.73239205 L23.4745061,3.6622802 L23.4745061,2 C23.4745061,1.17157288 22.8029332,0.5 21.9745061,0.5 L17,0.5 C16.1715729,0.5 15.5,1.17157288 15.5,2 L15.5,2.73239205 Z" id="Rectangle-2-Copy-4"></path>
+                    </g>
+                    <g id="Group-15" transform="translate(6.000000, 8.000000)" fill="#16254F">
+                        <rect id="Rectangle-19" x="5" y="0" width="1" height="11" rx="0.5"></rect>
+                        <rect id="Rectangle-19-Copy" x="0" y="5" width="11" height="1" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>F3B618B0-0C9A-4EA8-8501-C8FC65D7B0F3</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/24/down-or-up/download-from-cloud">
+            <path d="M14.6180908,0.5 C12.7605767,0.5 11.0449454,1.33214347 9.93729237,2.71896235 L9.71852417,2.99286749 L9.38644784,2.88057829 C8.92236147,2.72365084 8.44194495,2.64247846 7.95416169,2.64247838 C5.89272508,2.64362468 4.1407544,4.04692211 3.74545861,5.95889325 L3.69295165,6.21285948 L3.45510494,6.31622665 C1.6712752,7.09147147 0.5,8.7931454 0.5,10.694797 C0.5,13.3446732 2.73851087,15.49976 5.50919033,15.49976 L18.3110877,15.49976 C21.1810855,15.49976 23.5,13.2665274 23.5,10.5235023 C23.5,8.67874847 22.4351825,7.00636517 20.765271,6.14350868 L20.5174394,6.01545218 L20.4962412,5.73729834 C20.2720829,2.79599986 17.7175588,0.5 14.6180908,0.5 Z" id="Fill-1" stroke="#16254F"></path>
+            <polyline id="Path-3" stroke="#16254F" stroke-linecap="round" transform="translate(12.500000, 21.000000) scale(1, -1) translate(-12.500000, -21.000000) " points="8 23 12.5 19 17 22.9691198"></polyline>
+            <rect id="Rectangle-19" fill="#16254F" x="12" y="15" width="1" height="8" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>

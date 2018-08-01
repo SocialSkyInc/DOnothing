@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <path id="public-share-slideshow-a" d="M2,0 L18,0 C19.10457,0 20,0.89543 20,2 L20,11 C20,12.104569 19.10457,13 18,13 L2,13 C0.895431,13 0,12.104569 0,11 L0,2 C0,0.89543 0.895431,0 2,0 Z"/>
+    <path id="public-share-slideshow-c" d="M0.5,0 C0.77614,0 1,0.22386 1,0.5 L1,2.5 C1,2.77614 0.77614,3 0.5,3 C0.22386,3 0,2.77614 0,2.5 L0,0.5 C0,0.22386 0.22386,0 0.5,0 Z"/>
+    <path id="public-share-slideshow-e" d="M0.5,0 C0.77614,0 1,0.223858 1,0.5 L1,7.5 C1,7.776142 0.77614,8 0.5,8 C0.22386,8 0,7.776142 0,7.5 L0,0.5 C0,0.223858 0.22386,0 0.5,0 Z"/>
+    <path id="public-share-slideshow-g" d="M5.02318,0.413283 C5.26232,0.551355 5.34426,0.85715 5.20619,1.096296 L1.70619,7.158474 C1.568118,7.39762 1.262323,7.479558 1.023177,7.341487 C0.784031,7.203415 0.702093,6.89762 0.840164,6.658474 L4.34016,0.596296 C4.47824,0.35715 4.78403,0.275212 5.02318,0.413283 Z"/>
+    <path id="public-share-slideshow-i" d="M1.02318,0.413283 C1.26232,0.275212 1.56812,0.35715 1.70619,0.596296 L5.20619,6.658474 C5.34426,6.89762 5.26232,7.203415 5.02318,7.341487 C4.78403,7.479558 4.47824,7.39762 4.34016,7.158474 L0.84016,1.096296 C0.70209,0.85715 0.78403,0.551355 1.02318,0.413283 Z"/>
+    <path id="public-share-slideshow-k" d="M26,0 L26,27 L0,27 L0,0 L26,0 Z M15,13.5 L11,16 L11,11 L15,13.5 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 3)">
+      <mask id="public-share-slideshow-b" fill="#fff">
+        <use xlink:href="#public-share-slideshow-a"/>
+      </mask>
+      <path stroke="#FFC304" stroke-width="2" d="M2,0 L18,0 C19.10457,0 20,0.8954305 20,2 L20,11 C20,12.10457 19.10457,13 18,13 L2,13 C0.8954305,13 0,12.10457 0,11 L0,2 C0,0.8954305 0.8954305,0 2,0 Z" mask="url(#public-share-slideshow-b)"/>
+    </g>
+    <g transform="translate(11 1)">
+      <mask id="public-share-slideshow-d" fill="#fff">
+        <use xlink:href="#public-share-slideshow-c"/>
+      </mask>
+      <path stroke="#FFC304" stroke-width="2" d="M0.5,0 C0.7761424,0 1,0.2238576 1,0.5 L1,2.5 C1,2.776142 0.7761424,3 0.5,3 C0.2238576,3 0,2.776142 0,2.5 L0,0.5 C0,0.2238576 0.2238576,0 0.5,0 Z" mask="url(#public-share-slideshow-d)"/>
+    </g>
+    <g transform="translate(11 15)">
+      <mask id="public-share-slideshow-f" fill="#fff">
+        <use xlink:href="#public-share-slideshow-e"/>
+      </mask>
+      <path stroke="#FFC304" stroke-width="2" d="M0.5,0 C0.7761424,0 1,0.2238576 1,0.5 L1,7.5 C1,7.776142 0.7761424,8 0.5,8 C0.2238576,8 0,7.776142 0,7.5 L0,0.5 C0,0.2238576 0.2238576,0 0.5,0 Z" mask="url(#public-share-slideshow-f)"/>
+    </g>
+    <g transform="translate(6 15)">
+      <mask id="public-share-slideshow-h" fill="#fff">
+        <use xlink:href="#public-share-slideshow-g"/>
+      </mask>
+      <path stroke="#FFC304" stroke-width="2" d="M5.0231727,0.413283 C5.26231903,0.5513542 5.3442566,0.857149368 5.2061854,1.0962957 L1.7061854,7.1584735 C1.5681144,7.39761949 1.26231903,7.4795574 1.0231727,7.3414862 C0.784026368,7.203415 0.702089,6.89761949 0.84016,6.6584735 L4.34016,0.5962957 C4.4782312,0.357149368 4.78402637,0.2752118 5.0231727,0.413283 Z" mask="url(#public-share-slideshow-h)"/>
+    </g>
+    <g transform="translate(11 15)">
+      <mask id="public-share-slideshow-j" fill="#fff">
+        <use xlink:href="#public-share-slideshow-i"/>
+      </mask>
+      <path stroke="#FFC304" stroke-width="2" d="M1.0231727,0.413283 C1.26231903,0.2752118 1.5681142,0.357149368 1.7061854,0.5962957 L5.2061854,6.6584735 C5.3442564,6.89761949 5.26231903,7.203415 5.0231727,7.3414862 C4.78402637,7.4795574 4.478231,7.39761949 4.34016,7.1584735 L0.84016,1.0962957 C0.7020888,0.857149368 0.784026368,0.5513542 1.0231727,0.413283 Z" mask="url(#public-share-slideshow-j)"/>
+    </g>
+    <g transform="translate(0 -4)">
+      <mask id="public-share-slideshow-l" fill="#fff">
+        <use xlink:href="#public-share-slideshow-k"/>
+      </mask>
+      <polygon stroke="#FFC304" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="15 13.5 11 16 11 11" mask="url(#public-share-slideshow-l)"/>
+    </g>
+  </g>
+</svg>

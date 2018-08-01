@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <path id="public-share-back-a" d="M7.778175,4.70711 C7.38765,4.31658 7.38765,3.68342 7.778175,3.29289 C8.168699,2.90237 8.801864,2.90237 9.192388,3.29289 L17.67767,11.77817 C18.06819,12.1687 18.06819,12.80186 17.67767,13.19239 L9.192388,21.67767 C8.801864,22.068194 8.168699,22.068194 7.778175,21.67767 C7.38765,21.287145 7.38765,20.65398 7.778175,20.263456 L15.55635,12.48528 L7.778175,4.70711 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="public-share-back-b" fill="#fff">
+      <use xlink:href="#public-share-back-a"/>
+    </mask>
+    <polygon fill="#FFC304" points="2.485 26.971 22.971 26.971 22.971 -2 2.485 -2" mask="url(#public-share-back-b)"/>
+  </g>
+</svg>

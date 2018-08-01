@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>B817F9DC-40D1-44A4-AFA1-1BB84B90194D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/24/white/share" stroke="#FFFFFF">
+            <g id="Group-2">
+                <rect id="Combined-Shape-Copy" x="0.5" y="0.5" width="23" height="23" rx="2"></rect>
+                <g id="Group" transform="translate(11.500000, 12.500000) scale(-1, 1) translate(-11.500000, -12.500000) translate(4.000000, 5.000000)">
+                    <circle id="Oval-5" cx="3" cy="3" r="2.5"></circle>
+                    <circle id="Oval-5-Copy-2" cx="12" cy="7.5" r="2.5"></circle>
+                    <circle id="Oval-5-Copy" cx="3" cy="12" r="2.5"></circle>
+                    <path d="M5.35817317,4.98138436 L8.7356678,6.58766214" id="Line" stroke-linecap="square"></path>
+                    <path d="M9.61229395,9 L6,10.7179443" id="Line-Copy" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

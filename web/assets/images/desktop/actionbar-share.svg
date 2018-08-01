@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>9E69E5A4-1E78-46FD-BB03-53CDC295C327</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/24/Share-big">
+            <path d="M17.5384615,9 C18.1351981,9 18.5454545,9 18.7692308,9 C19.4489658,9 20,9.52233446 20,10.1666667 L20,21.8333333 C20,22.4776655 19.4489658,23 18.7692308,23 L5.23076923,23 C4.55103415,23 4,22.4776655 4,21.8333333 L4,10.1666667 C4,9.52233446 4.55103415,9 5.23076923,9 L6.46153846,9" id="Rectangle" stroke="#16254F" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Rectangle-3" stroke="#16254F" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.500000, 5.500000) rotate(-315.000000) translate(-12.500000, -5.500000) " points="9 9 9 2 16 2"></polyline>
+            <rect id="Rectangle-2" fill="#16254F" x="12" y="1" width="1" height="12" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>

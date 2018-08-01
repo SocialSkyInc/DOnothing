@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/24/shared/cat_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/24/shared/cat_white" stroke="#FFFFFF">
+            <g id="Group" transform="translate(4.000000, 4.000000)">
+                <circle id="Oval-3" cx="6" cy="4" r="4"></circle>
+                <path d="M9.04250261,6.50606184 C9.28303464,7.92193487 10.5156195,9 12,9 C13.6568542,9 15,7.65685425 15,6 C15,4.34314575 13.6568542,3 12,3 C11.2368109,3 10.5401831,3.28498294 10.0107272,3.75433828" id="Oval-3"></path>
+                <path d="M0,16 L0,13.4 C0,12.0745166 1.0745166,11 2.4,11 L9.6,11 C10.9254834,11 12,12.0745166 12,13.4 L12,16" id="Rectangle-18" stroke-linecap="round"></path>
+                <path d="M12,16 L12,14.1232018 C12,13.2395462 12.8058875,12.5232018 13.8,12.5232018 L16,12.5232018" id="Rectangle-18-Copy-3" stroke-linecap="round" transform="translate(14.000000, 14.261601) scale(-1, 1) translate(-14.000000, -14.261601) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <path id="public-share-download-item-a" d="M0,1.5 C0,0.671573 0.663886,0 1.493096,0 L13.5069,0 C14.33152,0 15,0.665797 15,1.5 C15,2.328427 14.33611,3 13.5069,3 L1.493096,3 C0.668482,3 0,2.334203 0,1.5 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 16)">
+      <mask id="public-share-download-item-b" fill="#fff">
+        <use xlink:href="#public-share-download-item-a"/>
+      </mask>
+      <path stroke="#16254F" stroke-width="2" d="M0,1.5 C0,0.6715729 0.6638858,0 1.493096,0 L13.5069,0 C14.33152,0 15,0.6657972 15,1.5 C15,2.328427 14.33611,3 13.5069,3 L1.493096,3 C0.668482,3 0,2.334203 0,1.5 Z" mask="url(#public-share-download-item-b)"/>
+    </g>
+    <g stroke="#16254F" stroke-linecap="round" stroke-linejoin="round" transform="translate(9 4)">
+      <path d="M2.5,8.5 L2.5,0.5"/>
+      <polyline points=".232 6.768 2.5 9.036 4.768 6.768"/>
+    </g>
+  </g>
+</svg>

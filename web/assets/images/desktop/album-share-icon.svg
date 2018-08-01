@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd" stroke="#16254F">
+        <rect width="23" height="23" x=".5" y=".5" rx="2"/>
+        <g transform="matrix(-1 0 0 1 19 5)">
+            <circle cx="3" cy="3" r="2.5"/>
+            <circle cx="12" cy="7.5" r="2.5"/>
+            <circle cx="3" cy="12" r="2.5"/>
+            <path stroke-linecap="square" d="M5.358 4.981l3.378 1.607M9.612 9L6 10.718"/>
+        </g>
+    </g>
+</svg>

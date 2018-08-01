@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title> Create Album 16x16 dissable</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="-Create-Album-16x16-dissable" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-6" stroke="#979797" x="4.5" y="7.5" width="15" height="13" rx="2"></rect>
+        <path d="M6.5,20.4855718 L17.5,20.4993723 L17.5,19.0299388 C17.5,17.6305137 16.414139,16.5 15.0874777,16.5 L8.9125223,16.5 C7.58650934,16.5 6.5,17.6289212 6.5,19.0284183 L6.5,20.4855718 Z" id="Rectangle" stroke="#979797"></path>
+        <circle id="Oval-4" stroke="#979797" cx="12" cy="12" r="2.5"></circle>
+        <path d="M6.5,5.5 L17.5,5.5" id="Line-2" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M7.5,3.5 L16.5,3.5" id="Line-2-Copy" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

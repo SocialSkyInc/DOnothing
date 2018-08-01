@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>8DBBE114-6857-4D25-8B8F-3484C65DBD94</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bcluod-Web_home" transform="translate(-1019.000000, -659.000000)">
+            <g id="icon/24/photos/album-add" transform="translate(1021.000000, 661.000000)">
+                <g id="Group-36" stroke="#16254F">
+                    <rect id="Rectangle-2-Copy-3" x="0.5" y="4.5" width="19" height="19" rx="2"></rect>
+                    <path d="M2.51250753,3.80540075 L20.1945992,21.4874925 C20.9310925,21.3920849 21.5,20.7624802 21.5,20 L21.5,4 C21.5,3.17157288 20.8284271,2.5 20,2.5 L4,2.5 C3.23751982,2.5 2.6079151,3.06890748 2.51250753,3.80540075 Z" id="Rectangle-2-Copy-3"></path>
+                    <path d="M4.51005375,1.82539447 L22.1944221,19.4875154 C22.9310013,19.3921858 23.5,18.7625413 23.5,18 L23.5,2 C23.5,1.17157288 22.8284271,0.5 22,0.5 L6,0.5 C5.23063414,0.5 4.59655447,1.07922907 4.51005375,1.82539447 Z" id="Rectangle-2-Copy-4"></path>
+                    <path d="M9,16.4975556 C10.8767077,14.1007992 12.6325624,12.9358548 14.267564,13.0027224 C15.9025656,13.06959 17.4800443,14.4020158 19,17" id="Path-10" stroke-linecap="round"></path>
+                    <path d="M1,20 C3.00750576,17.39273 4.80883188,16.0795259 6.40397836,16.0603879 C7.99912485,16.0412498 9.53113206,16.6913653 11,18.0107344" id="Path-10-Copy" stroke-linecap="round"></path>
+                    <circle id="Oval-3" cx="5" cy="9" r="2"></circle>
+                </g>
+                <g id="Group" transform="translate(-2.000000, -2.000000)" fill="#16254F">
+                    <rect id="Rectangle" x="0" y="2" width="5" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle" transform="translate(2.500000, 2.500000) rotate(90.000000) translate(-2.500000, -2.500000) " x="0" y="2" width="5" height="1" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

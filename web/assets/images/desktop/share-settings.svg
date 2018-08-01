@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>83010E67-6BB6-46E4-BFC4-5D37BC2AEE34</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="9" height="8"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/24/share/Setup-sharing-">
+            <path d="M0.5,23.5 L17.5,23.5 L17.5,20.4703613 C17.5,17.7076809 15.7382519,15.5 13.6312166,15.5 L4.36878345,15.5 C2.26280348,15.5 0.5,17.7045755 0.5,20.4676161 L0.5,23.5 Z" id="Rectangle-Copy" stroke="#16254F"></path>
+            <g id="Rectangle-Copy-2" transform="translate(15.000000, 16.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M1.1226812,0.5 L8.5,8.69702089 L8.5,3.55870101 C8.5,1.85235721 7.39405841,0.5 6.0874777,0.5 L1.1226812,0.5 Z" stroke="#16254F" mask="url(#mask-2)"></path>
+            </g>
+            <circle id="Oval-4-Copy" stroke="#16254F" cx="9.5" cy="8.5" r="4"></circle>
+            <circle id="Oval-4-Copy-2" stroke="#16254F" cx="18" cy="11" r="2.5"></circle>
+        </g>
+    </g>
+</svg>

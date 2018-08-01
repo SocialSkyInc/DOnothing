@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="12" viewBox="0 0 10 12">
+  <defs>
+    <path id="public-share-user-icon-a" d="M3.011196,6.044865 C1.356873,6.044865 0.015779,4.703771 0.015779,3.049448 C0.015779,1.39512 1.356873,0.05403 3.011196,0.05403 C4.66552,0.05403 6.006614,1.39512 6.006614,3.049448 C6.006614,4.703771 4.66552,6.044865 3.011196,6.044865 Z"/>
+    <path id="public-share-user-icon-c" d="M0.01883421,5.8430287 L0.01883421,3.438063 C0.01883421,2.054221 1.10027,0.932396 2.42861,0.932396 L7.537672,0.932396 C8.868555,0.932396 9.947448,2.057602 9.947448,3.439321 L9.947448,5.94624494 L0.01883421,5.8430287 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2)">
+      <mask id="public-share-user-icon-b" fill="#fff">
+        <use xlink:href="#public-share-user-icon-a"/>
+      </mask>
+      <polygon fill="#16254F" points="-4.984 11.045 11.007 11.045 11.007 -4.946 -4.984 -4.946" mask="url(#public-share-user-icon-b)"/>
+    </g>
+    <g transform="translate(0 6)">
+      <mask id="public-share-user-icon-d" fill="#fff">
+        <use xlink:href="#public-share-user-icon-c"/>
+      </mask>
+      <polygon fill="#16254F" points="-4.981 10.946 14.947 10.946 14.947 -4.068 -4.981 -4.068" mask="url(#public-share-user-icon-d)"/>
+    </g>
+  </g>
+</svg>
