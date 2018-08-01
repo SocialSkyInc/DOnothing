@@ -1,0 +1,32 @@
+LET cloudId = CONCAT('clouds/', @cloudKey)
+
+LET children = (FOR v, e IN INBOUND cloudId GRAPH @graphName
+    FILTER IS_SAME_COLLECTION("childOf", e._id)
+	RETURN v)
+
+LET lastPost = (FOR post IN posts
+    FILTER post.type == "INVITE-USER"
+    FILTER post.createdAt < (TO_NUMBER(post.createdAt) + TO_NUMBER(604800000))
+    SORT post.createdAt DESC
+    LIMIT 1
+
+   Let files = (
+       for f in post.content
+       return DOCUMENT("files", f)
+   )
+
+   Let collections = (
+       for c in post.collections
+       return DOCUMENT("collections", c)
+   )
+
+   RETURN MERGE(post, {
+      content: files,
+      collections: collections
+   })
+)
+
+RETURN {
+    children: children,
+    lastPost: lastPost
+}
